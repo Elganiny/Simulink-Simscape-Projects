@@ -52,6 +52,10 @@ As an example, this repository includes a simulation of a self-balancing robot, 
 
 <img align="right" height="150" src="https://github.com/Elganiny/Simulink-Simscape-Projects/blob/main/Simple%20selfbalance%20sim.gif?raw=true"  />
 
+
+
+
+
 ## Contributing
 
 ### Creating A Pull Request
